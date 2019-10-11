@@ -36,6 +36,7 @@ Download Bluestacks Tweeker 5(required to root bluestacks): [https://bstweaker.t
 
 Video tutorial on how to root Blue stacks after both of the above downloads have been installed: [https://www.youtube.com/watch?v=21qSgqCNQNY&list=PLOx4lYwUQYvooe7gQnThwWsc_Mn9UCLsR&index=41&t=0s](https://www.youtube.com/watch?v=21qSgqCNQNY&list=PLOx4lYwUQYvooe7gQnThwWsc_Mn9UCLsR&index=41&t=0s)
 
+(Download GameGuardian and Realm Defense v1.11.1 on your Emulator i.e. BlueStacks, just open chrome through the emulator and copy paste links)
 Download game guardian: [https://gameguardian.net/download](https://gameguardian.net/download)
 
 Download Realm defense version 1.11.1: [https://realm-defense.en.uptodown.com/android/download/1723866](https://realm-defense.en.uptodown.com/android/download/1723866)
