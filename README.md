@@ -7,6 +7,8 @@
 
 (I think, haven’t fully tested other ways) this can only work by making a new account, because when you backup it doesn’t overwrite the save as more progress has been made on your current account in comparison to the new one. So you need to use a new google play account and make sure that’s the one being used by the game to login.  You can check this by going into your phone settings > Google > (Add/Select new account) > Ensure the box is ticked where it says “Use this account to sign in to games”
 
+Starting a new account is not a problem as you just have to wait for an event, because you can easily rank up all your heros to level 6 when there is an event by spending the unlimited gems you get from this method on chests during the event which drop realm siege tokens, which you can then use to easily/quickly level up all your heros.   
+
 ## Step by Step Guide:
 (See links below)
 
