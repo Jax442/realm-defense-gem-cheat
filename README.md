@@ -22,9 +22,9 @@ Starting a new account is not a problem as you just have to wait for an event, b
 **Video tutorial of steps 7-9:** [https://streamable.com/9oioe](https://streamable.com/9oioe)
 
 7) Open GameGuardian search for ":8500" - the type is "text" 
-8) Save all addresses, select all addresses and replace all address values to ":-9999"
-9) Change tabs to something else and go back to elixer tab it should now refresh and show the value of the 10k elixer package as -9999
-10) Use an autoclicker to spam buy and you will recieve gems and 10k elixer per click - do this until you're happy with the amount
+8) Save all addresses, select all addresses and replace all address values to ":-999"
+9) Change tabs to something else and go back to elixer tab it should now refresh and show the value of the 10k elixer package as -999
+10) Use an autoclicker to spam buy and you will recieve 999 gems and 10k elixer per click - do this until you're happy with the amount ( I recommend getting alot, just download an autoclicker and leave it on for 20-30 minutes as you can't ever add more, after you do step 13)
 11) Backup game (optional)
 12) Close game guardian and the game
 13) Open Google play store and update the game
