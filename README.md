@@ -1,7 +1,7 @@
 
 # realm-defense-gems-cheat
 
-(Still working as of 02-Dec-2020)
+(Still working as of 02-Dec-2020), Just make sure you read all the instructions and watch the video. If you have any issues go here and raise an issue: https://github.com/Jax442/realm-defense-gem-cheat/issues (you need a github account) I will be happy to help you out :) 
 
 # Disclaimer:
 
